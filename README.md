@@ -1,14 +1,8 @@
 ![Без названия (2)](https://github.com/Vispixad/Vispixad/assets/161984981/f2754063-2eaf-4c12-a102-c8eab895ffb3)
-- 👋 Hi
-, I’m @Vispixad
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Привет, я занимаюсь разработкой разных полезных проектов на основе ARDUINO, ESP, STM, ATTINY, RASPBERRY. В это же время обучаюсь чтобы уметь создавать проекты лучше и сложнее. 
 
-<!---
-Vispixad/Vispixad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📫 Если хотите меня спросить о чем-то или предложить помощь добро пожаловать в мои соц сети:
+- [Telegram](https://t.me/vispixad)
+- Почта: esptester4@gmail.com
+
+
