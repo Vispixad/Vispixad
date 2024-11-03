@@ -1,7 +1,30 @@
-![Без названия (2)](https://github.com/Vispixad/Vispixad/assets/161984981/f2754063-2eaf-4c12-a102-c8eab895ffb3)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=B5B3C8&random=true&width=2100&height=60&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D1%8F+%D0%B7%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%8E%D1%81%D1%8C+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%BE%D0%B9+%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85+%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D1%85+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2+%D0%BD%D0%B0+%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%B5+ARDUINO%2C+ESP%2C+STM%2C+ATTINY%2C+;RASPBERRY.+%D0%92+%D1%8D%D1%82%D0%BE+%D0%B6%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F+%D0%BE%D0%B1%D1%83%D1%87%D0%B0%D1%8E%D1%81%D1%8C+%D1%87%D1%82%D0%BE%D0%B1%D1%8B+%D1%83%D0%BC%D0%B5%D1%82%D1%8C+%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C+%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%D0%BB%D1%83%D1%87%D1%88%D0%B5+%D0%B8+%D1%81%D0%BB%D0%BE%D0%B6%D0%BD%D0%B5%D0%B5.+)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=B5B3C8&random=true&width=2100&height=60&lines=%F0%9F%93%AB+%D0%95%D1%81%D0%BB%D0%B8+%D1%85%D0%BE%D1%82%D0%B8%D1%82%D0%B5+%D0%BC%D0%B5%D0%BD%D1%8F+%D1%81%D0%BF%D1%80%D0%BE%D1%81%D0%B8%D1%82%D1%8C+%D0%BE+%D1%87%D0%B5%D0%BC-%D1%82%D0%BE+%D0%B8%D0%BB%D0%B8+%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B8%D1%82%D1%8C+%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C+%D0%B4%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%D0%B2+%D0%BC%D0%BE%D0%B8+%D1%81%D0%BE%D1%86+%D1%81%D0%B5%D1%82%D0%B8%3A)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=B5B3C8&random=true&width=2100&height=60&lines=Telegram%3A+%40vispixad)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=B5B3C8&random=true&width=2100&height=60&lines=%D0%9F%D0%BE%D1%87%D1%82%D0%B0%3A+esptester4%40gmail.com)](https://git.io/typing-svg)
+![photo_2024-11-03_20-26-30](https://github.com/user-attachments/assets/f3479758-5553-4bd3-8a74-9ff1457643da)
+# Hello! 👋 I'm Pisppus
+I'm a passionate developer who strives to create innovative solutions at the intersection of hardware and software. My goal is to transform ideas into reality by developing products that matter and deliver value.
 
+## 🛠️ Tech Arsenal
+Skill Type | Skills | Proficiency |
+|---------------------------|-------------------------|---------------------|
+| Programming Languages ​​| C++ | ⭐⭐⭐⭐ |
+| | Python | ⭐ |
+| | JavaScript | ⭐ |
+| | C# | ⭐⭐ |
+| Hardware | ESP32 | ⭐⭐⭐⭐⭐ |
+| | Arduino | ⭐⭐⭐⭐⭐ |
+| | Raspberry Pi | ⭐⭐ |
+| | STM32 | ⭐
 
+## 📂 Key Projects
+- [Project Name 1](repository_link): [Brief description of the project]. Technologies used: [list technologies]. Results achieved: [describe the results].
+- [Project Name 2](repository_link): [Description of the problem the project solves], including [functional features]. Technologies used: [list technologies].
+- [Project Name 3](repository_link): [Project goals and achievements]. This project demonstrated [describe what was unique or significant].
+
+## 🌱 In the process of learning
+I am constantly striving to expand my knowledge and skills in the following areas:
+- Creating circuits and developing boards
+- Writing software (firmware)
+- Releasing more interesting and functional projects
+
+## 📫 Contact me
+- 📧 [Email](vispixad@gmail.com)
+- 🔗 [Telegram](https://t.me/Pisppus)
