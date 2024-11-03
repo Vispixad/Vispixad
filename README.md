@@ -14,11 +14,6 @@ Skill Type | Skills | Proficiency |
 | | Raspberry Pi | ⭐⭐ |
 | | STM32 | ⭐
 
-## 📂 Key Projects
-- [Project Name 1](repository_link): [Brief description of the project]. Technologies used: [list technologies]. Results achieved: [describe the results].
-- [Project Name 2](repository_link): [Description of the problem the project solves], including [functional features]. Technologies used: [list technologies].
-- [Project Name 3](repository_link): [Project goals and achievements]. This project demonstrated [describe what was unique or significant].
-
 ## 🌱 In the process of learning
 I am constantly striving to expand my knowledge and skills in the following areas:
 - Creating circuits and developing boards
